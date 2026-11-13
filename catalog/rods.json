@@ -1,7 +1,7 @@
 [
-  {"id": "bamboo", "image": null},
-  {"id": "carbon", "image": null},
-  {"id": "steel", "image": null},
-  {"id": "gold", "image": null},
-  {"id": "legend", "image": null}
+  {"id": "bamboo", "image": "images/rods/bamboo.png"},
+  {"id": "carbon", "image": "images/rods/carbon.png"},
+  {"id": "steel", "image": "images/rods/steel.png"},
+  {"id": "gold", "image": "images/rods/gold.png"},
+  {"id": "legend", "image": "images/rods/legend.png"}
 ]
