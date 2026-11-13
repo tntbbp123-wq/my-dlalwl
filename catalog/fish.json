@@ -1,14 +1,14 @@
 [
-  {"id": "rice", "name": "멸치", "tier": "common", "minLength": 5, "maxLength": 15, "price": [10, 200], "xp": 1, "color": "#a9c4dc", "image": null},
-  {"id": "sardine", "name": "정어리", "tier": "common", "minLength": 15, "maxLength": 25, "price": [30, 170], "xp": 2, "color": "#8fb3d9", "image": null},
-  {"id": "shad", "name": "전어", "tier": "common", "minLength": 15, "maxLength": 30, "price": [30, 240], "xp": 2, "color": "#b8c7d6", "image": null},
-  {"id": "carrot", "name": "고등어", "tier": "uncommon", "minLength": 25, "maxLength": 50, "price": [300, 21000], "xp": 5, "color": "#4f86c6", "image": null},
-  {"id": "hairtail", "name": "갈치", "tier": "uncommon", "minLength": 60, "maxLength": 150, "price": [500, 5200], "xp": 6, "color": "#cfd8e3", "image": null},
-  {"id": "rockfish", "name": "우럭", "tier": "uncommon", "minLength": 20, "maxLength": 60, "price": [1000, 11500], "xp": 5, "color": "#6b6f7a", "image": null},
-  {"id": "cabbage", "name": "복어", "tier": "rare", "minLength": 20, "maxLength": 50, "price": [3000, 31000], "xp": 20, "color": "#e8c547", "image": null},
-  {"id": "flatfish", "name": "광어", "tier": "rare", "minLength": 30, "maxLength": 100, "price": [2500, 22000], "xp": 15, "color": "#9c7b5b", "image": null},
-  {"id": "seabream", "name": "참돔", "tier": "rare", "minLength": 30, "maxLength": 100, "price": [3000, 28000], "xp": 15, "color": "#e8707a", "image": null},
-  {"id": "potato", "name": "참치", "tier": "legendary", "minLength": 100, "maxLength": 300, "price": [5000, 50000], "xp": 30, "color": "#d0565f", "image": null},
-  {"id": "marlin", "name": "청새치", "tier": "legendary", "minLength": 150, "maxLength": 400, "price": [6000, 52000], "xp": 40, "color": "#3d6fb6", "image": null},
-  {"id": "sunfish", "name": "개복치", "tier": "legendary", "minLength": 100, "maxLength": 330, "price": [5500, 50000], "xp": 35, "color": "#9aa7b8", "image": null}
+  {"id": "rice", "name": "멸치", "tier": "common", "minLength": 5, "maxLength": 15, "price": [10, 200], "xp": 1, "color": "#a9c4dc", "image": "images/fish/rice.png"},
+  {"id": "sardine", "name": "정어리", "tier": "common", "minLength": 15, "maxLength": 25, "price": [30, 170], "xp": 2, "color": "#8fb3d9", "image": "images/fish/sardine.png"},
+  {"id": "shad", "name": "전어", "tier": "common", "minLength": 15, "maxLength": 30, "price": [30, 240], "xp": 2, "color": "#b8c7d6", "image": "images/fish/shad.png"},
+  {"id": "carrot", "name": "고등어", "tier": "uncommon", "minLength": 25, "maxLength": 50, "price": [300, 21000], "xp": 5, "color": "#4f86c6", "image": "images/fish/carrot.png"},
+  {"id": "hairtail", "name": "갈치", "tier": "uncommon", "minLength": 60, "maxLength": 150, "price": [500, 5200], "xp": 6, "color": "#cfd8e3", "image": "images/fish/hairtail.png"},
+  {"id": "rockfish", "name": "우럭", "tier": "uncommon", "minLength": 20, "maxLength": 60, "price": [1000, 11500], "xp": 5, "color": "#6b6f7a", "image": "images/fish/rockfish.png"},
+  {"id": "cabbage", "name": "복어", "tier": "rare", "minLength": 20, "maxLength": 50, "price": [3000, 31000], "xp": 20, "color": "#e8c547", "image": "images/fish/cabbage.png"},
+  {"id": "flatfish", "name": "광어", "tier": "rare", "minLength": 30, "maxLength": 100, "price": [2500, 22000], "xp": 15, "color": "#9c7b5b", "image": "images/fish/flatfish.png"},
+  {"id": "seabream", "name": "참돔", "tier": "rare", "minLength": 30, "maxLength": 100, "price": [3000, 28000], "xp": 15, "color": "#e8707a", "image": "images/fish/seabream.png"},
+  {"id": "potato", "name": "참치", "tier": "legendary", "minLength": 100, "maxLength": 300, "price": [5000, 50000], "xp": 30, "color": "#d0565f", "image": "images/fish/potato.png"},
+  {"id": "marlin", "name": "청새치", "tier": "legendary", "minLength": 150, "maxLength": 400, "price": [6000, 52000], "xp": 40, "color": "#3d6fb6", "image": "images/fish/marlin.png"},
+  {"id": "sunfish", "name": "개복치", "tier": "legendary", "minLength": 100, "maxLength": 330, "price": [5500, 50000], "xp": 35, "color": "#9aa7b8", "image": "images/fish/sunfish.png"}
 ]
