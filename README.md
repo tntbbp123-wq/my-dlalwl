@@ -9,7 +9,7 @@ catalog/
   equipment.json   장비 종류 (지금 180종, 도감 번호 No.001~No.180)
   rods.json        낚싯대 5종의 그림
 images/
-  fish/            물고기 이미지 (예: images/fish/rice.png)
+  fish/            물고기 이미지 (예: images/fish/rice.png, 황금 물고기 images/fish/golden_rice.png)
   equipment/       장비 이미지 (예: images/equipment/001.png)
   rods/            낚싯대 이미지 (예: images/rods/bamboo.png)
 ```
@@ -42,6 +42,7 @@ images/
 | `xp` | 낚으면 받는 경험치 | 0 이상 정수 |
 | `color` | 색(예비) | `#a9c4dc` 같은 색 코드 |
 | `image` | 이미지 | 아래 "이미지" 참고. 없으면 `null` |
+| `goldenImage` | 황금 물고기 이미지 | 없으면 `null`(그때는 `image`를 씀) |
 
 같은 등급의 물고기는 그 등급 확률을 똑같이 나눠 갖습니다. 등급 확률(레벨별)과 낚싯대는 봇 코드(`src/fish-data.js`)에 있습니다.
 
@@ -75,7 +76,7 @@ images/
 2. 목록 파일의 그 항목 `image`에 저장소 안의 경로를 적습니다. 예: `"image": "images/fish/potato.png"`
    - 다른 곳에 올린 이미지는 `https://`로 시작하는 주소를 그대로 적어도 됩니다.
 3. 봇을 다시 켜면 보입니다.
-   - 물고기 이미지: `/낚시`로 그 물고기를 낚았을 때 결과 아래에 크게(황금 물고기도 같은 이미지)
+   - 물고기 이미지: `/낚시`로 그 물고기를 낚았을 때 결과 아래에 크게. 황금 물고기는 `goldenImage`(예: `images/fish/golden_potato.png`), 없으면 보통 이미지
    - 장비 이미지: `/인벤토리`에서 장비를 골랐을 때 장비 창 아래에 크게
    - 낚싯대 이미지: `/낚싯대` 상점(지금 낚싯대)과 `/낚시`·어선 결과(쓴 낚싯대)의 **왼쪽 위**에 낚싯대 이름과 함께 작게
 
