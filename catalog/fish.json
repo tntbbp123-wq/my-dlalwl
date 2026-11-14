@@ -1,7 +1,7 @@
 [
-  {"id": "rice", "name": "멸치", "tier": "common", "minLength": 5, "maxLength": 15, "price": [10, 200], "xp": 1, "color": "#a9c4dc", "image": "images/fish/rice.png", "goldenImage": "images/fish/golden_rice.png"},
-  {"id": "sardine", "name": "정어리", "tier": "common", "minLength": 15, "maxLength": 25, "price": [30, 170], "xp": 2, "color": "#8fb3d9", "image": "images/fish/sardine.png", "goldenImage": "images/fish/golden_sardine.png"},
-  {"id": "shad", "name": "전어", "tier": "common", "minLength": 15, "maxLength": 30, "price": [30, 240], "xp": 2, "color": "#b8c7d6", "image": "images/fish/shad.png", "goldenImage": "images/fish/golden_shad.png"},
+  {"id": "rice", "name": "멸치", "tier": "common", "minLength": 5, "maxLength": 15, "price": [100, 2000], "xp": 1, "color": "#a9c4dc", "image": "images/fish/rice.png", "goldenImage": "images/fish/golden_rice.png"},
+  {"id": "sardine", "name": "정어리", "tier": "common", "minLength": 15, "maxLength": 25, "price": [300, 1700], "xp": 2, "color": "#8fb3d9", "image": "images/fish/sardine.png", "goldenImage": "images/fish/golden_sardine.png"},
+  {"id": "shad", "name": "전어", "tier": "common", "minLength": 15, "maxLength": 30, "price": [300, 2400], "xp": 2, "color": "#b8c7d6", "image": "images/fish/shad.png", "goldenImage": "images/fish/golden_shad.png"},
   {"id": "carrot", "name": "고등어", "tier": "uncommon", "minLength": 25, "maxLength": 50, "price": [300, 21000], "xp": 5, "color": "#4f86c6", "image": "images/fish/carrot.png", "goldenImage": "images/fish/golden_carrot.png"},
   {"id": "hairtail", "name": "갈치", "tier": "uncommon", "minLength": 60, "maxLength": 150, "price": [500, 5200], "xp": 6, "color": "#cfd8e3", "image": "images/fish/hairtail.png", "goldenImage": "images/fish/golden_hairtail.png"},
   {"id": "rockfish", "name": "우럭", "tier": "uncommon", "minLength": 20, "maxLength": 60, "price": [1000, 11500], "xp": 5, "color": "#6b6f7a", "image": "images/fish/rockfish.png", "goldenImage": "images/fish/golden_rockfish.png"},
